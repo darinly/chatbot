@@ -22,6 +22,7 @@
     <modules>
         <module>discovery</module>
         <module>nlp</module>
+        <module>memory</module>
     </modules>
 
     <dependencies>
